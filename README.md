@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Wave Animated SVG Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=230&section=header&text=AKIF%20FURKAN%20EMIR&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Engineer%20%E2%80%A2%20Systems%20%26%20AI%20Enthusiast%20%E2%80%A2%20Linux%20Power%20User&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Self-Hosted Luxury Hyprland & Gold SVG Header -->
+<img src="https://raw.githubusercontent.com/akiffurkan/akiffurkan/main/assets/header.svg" width="100%" alt="Akif Furkan Emir" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=F5C024&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Architecting+Mobile%2C+Web+%26+Desktop+Apps;Building+Antigravity+Mobile+%E2%80%A2+HWT+Lister;Hyprland+%E2%80%A2+Linux+%E2%80%A2+High-Performance+Code;Turning+Ideas+Into+Scalable+Reality" alt="Typing SVG Banner" />
@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/akiffurkan">
-    <img src="https://komarev.com/ghpvc/?username=akiffurkan&style=for-the-badge&color=D4AF37&label=PORTFOLIO+VIEWS" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-akiffurkan-D4AF37?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/status-active_development-2ea44f?style=for-the-badge&logo=github" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/focus-clean_code_%26_systems-blueviolet?style=for-the-badge" alt="Focus Badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-2EA44F?style=for-the-badge&logo=git&logoColor=white" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-CLEAN_CODE_%26_SYSTEMS-8A2BE2?style=for-the-badge" alt="Focus Badge"/>
 </p>
 
 </div>
@@ -161,9 +161,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<!-- Animated SVG Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <sub>⭐ Designed with passion & precision by <b>Akif Furkan Emir</b></sub>

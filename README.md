@@ -38,19 +38,25 @@
 <div align="center">
 
 <p style="margin: 4px 0 2px 0;"><b>Languages</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,r,powershell,html,css" /></a>
 
-<p style="margin: 10px 0 2px 0;"><b>Frontend</b></p>
+<p style="margin: 6px 0 2px 0;"><b>Frontend & UI</b></p>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" /></a>
 
-<p style="margin: 10px 0 2px 0;"><b>Backend</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" /></a>
+<p style="margin: 6px 0 2px 0;"><b>Backend & Cloud</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,vercel" /></a>
 
-<p style="margin: 10px 0 2px 0;"><b>Database</b></p>
+<p style="margin: 6px 0 2px 0;"><b>Game, 3D & Creative</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,unreal,blender" /></a>
+
+<p style="margin: 6px 0 2px 0;"><b>Database & Storage</b></p>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /></a>
 
-<p style="margin: 10px 0 2px 0;"><b>DevOps & Infrastructure</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,bash" /></a>
+<p style="margin: 6px 0 2px 0;"><b>DevOps, Hardware & Tools</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,git,bash,arduino,visualstudio,notion" /></a>
+
+<p style="margin: 6px 0 2px 0;"><b>Platforms & Operating Systems</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,nixos,linux" /></a>
 
 </div>
 

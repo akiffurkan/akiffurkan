@@ -1,19 +1,17 @@
 <div align="center">
 
-# ⚡ Akif Furkan Emir
-### 🚀 Full-Stack Software Engineer • Systems & AI Enthusiast • Linux Power User
-
-<br/>
+<!-- Wave Animated SVG Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=230&section=header&text=AKIF%20FURKAN%20EMIR&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Engineer%20%E2%80%A2%20Systems%20%26%20AI%20Enthusiast%20%E2%80%A2%20Linux%20Power%20User&descAlignY=60&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=F5C024&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Turning+Complex+Logic+Into+Elegant+Code;Crafting+Desktop%2C+Web+%26+Mobile+Experiences;Hyprland+%E2%80%A2+Linux+%E2%80%A2+High-Performance+Systems;Building+The+Future+One+Commit+At+A+Time" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=F5C024&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Architecting+Mobile%2C+Web+%26+Desktop+Apps;Building+Antigravity+Mobile+%E2%80%A2+HWT+Lister;Hyprland+%E2%80%A2+Linux+%E2%80%A2+High-Performance+Code;Turning+Ideas+Into+Scalable+Reality" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/akiffurkan">
     <img src="https://komarev.com/ghpvc/?username=akiffurkan&style=for-the-badge&color=D4AF37&label=PORTFOLIO+VIEWS" alt="Profile Views"/>
   </a>
-  <img src="https://img.shields.io/badge/status-building_great_things-2ea44f?style=for-the-badge&logo=github" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/status-active_development-2ea44f?style=for-the-badge&logo=github" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/focus-clean_code_%26_systems-blueviolet?style=for-the-badge" alt="Focus Badge"/>
 </p>
 
@@ -35,42 +33,24 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 TECH STACK
 
 <div align="center">
 
-### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css" />
-</a>
+<p style="margin: 4px 0 2px 0;"><b>Languages</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css" /></a>
 
-<br/><br/>
+<p style="margin: 10px 0 2px 0;"><b>Frontend</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" /></a>
 
-### 🎨 Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
-</a>
+<p style="margin: 10px 0 2px 0;"><b>Backend</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" /></a>
 
-<br/><br/>
+<p style="margin: 10px 0 2px 0;"><b>Database</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /></a>
 
-### ⚙️ Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-</a>
-
-<br/><br/>
-
-### 🗄️ Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</a>
-
-<br/><br/>
-
-### 🚀 DevOps & Infrastructure
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,bash" />
-</a>
+<p style="margin: 10px 0 2px 0;"><b>DevOps & Infrastructure</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,bash" /></a>
 
 </div>
 
@@ -81,20 +61,37 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">📱 <a href="https://github.com/akiffurkan">Antigravity Mobile</a></h3>
+      <p align="center">
+        <b>Mobile Companion for Autonomous AI Agents</b>
+      </p>
+      <ul>
+        <li>🤖 Monitor and control autonomous agents on the go.</li>
+        <li>📡 Live telemetry, execution logs streaming & workspace browser.</li>
+        <li>💎 Cyberpunk glassmorphic UI with push notifications.</li>
+        <li>⚡ Remote task dispatching & subagent lifecycle management.</li>
+      </ul>
+      <p align="center">
+        <code>Mobile</code> • <code>Tauri / Flutter</code> • <code>AI Companion</code> • <code>WebSockets</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">⌚ <a href="https://github.com/akiffurkan/hwt-lister">HWT Lister</a></h3>
       <p align="center">
         <b>Haute Horlogerie Huawei Watch Face Gallery</b>
       </p>
       <ul>
-        <li>👑 Luxury White & Gold themed single-file web gallery.</li>
+        <li>👑 Luxury White & Gold single-file web gallery.</li>
         <li>🔍 Real-time search, multi-sorting & XML metadata inspection.</li>
         <li>🛡️ Smart cover extraction with AMOLED AOD protection.</li>
         <li>⚡ Zero-setup single-command Python Flask execution.</li>
       </ul>
       <p align="center">
-        <code>Python</code> • <code>Flask</code> • <code>Glassmorphism</code> • <code>Pillow</code>
+        <code>Python</code> • <code>Flask</code> • <code>Pillow</code> • <code>Luxury UI</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🖥️ <a href="https://github.com/akiffurkan">Codenotch for Windows</a></h3>
       <p align="center">
@@ -110,8 +107,6 @@
         <code>Rust</code> • <code>Tauri</code> • <code>Windows API</code> • <code>AI Tools</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚇 <a href="https://github.com/akiffurkan">Metrom Nerede</a></h3>
       <p align="center">
@@ -124,20 +119,6 @@
       </ul>
       <p align="center">
         <code>Cross-Platform</code> • <code>Modern UI</code> • <code>Geolocation API</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🐧 <a href="https://github.com/akiffurkan">Hyprland & Dotfiles Hub</a></h3>
-      <p align="center">
-        <b>Minimalist & Aesthetic Unix Workstation Configs</b>
-      </p>
-      <ul>
-        <li>✨ Custom animations, Waybar modules & Wayland keybinds.</li>
-        <li>🖤 Catppuccin / TokyoNight / Gold hybrid color schemes.</li>
-        <li>⚡ Blazing-fast workflow with Neovim, Fish & Alacritty.</li>
-      </ul>
-      <p align="center">
-        <code>Hyprland</code> • <code>Wayland</code> • <code>Shell</code> • <code>Linux</code>
       </p>
     </td>
   </tr>
@@ -159,28 +140,6 @@
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=akiffurkan&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akiffurkan&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub Activity Graph"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=akiffurkan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Constellation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akiffurkan/akiffurkan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akiffurkan/akiffurkan/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akiffurkan/akiffurkan/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
@@ -201,11 +160,10 @@
   <a href="https://github.com/akiffurkan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;
-  <a href="mailto:akiffurkan@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
+
+<!-- Animated SVG Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <sub>⭐ Designed with passion & precision by <b>Akif Furkan Emir</b></sub>

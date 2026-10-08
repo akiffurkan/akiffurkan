@@ -56,10 +56,10 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,git,bash,arduino,raspberrypi,vscode,visualstudio,eclipse,replit,notion" /></a>
 
 <p style="margin: 6px 0 2px 0;"><b>Platforms & Operating Systems (Active)</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,debian,redhat,nix,linux" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,ubuntu,redhat,nix,linux" /></a>
 
-<p style="margin: 6px 0 2px 0;"><b>Past Distro Experience</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch,kali" /></a>
+<p style="margin: 6px 0 2px 0;"><b>Past Platforms & Distro Experience</b></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,debian,arch,kali" /></a>
 
 </div>
 
@@ -129,6 +129,48 @@
       <p align="center">
         <code>Cross-Platform</code> • <code>Modern UI</code> • <code>Geolocation API</code>
       </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Hardware & Battle Station
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Primary Workstation</h3>
+      <p align="center"><b>Huawei MateBook D16 (2024) 16"</b></p>
+      <ul>
+        <li><b>CPU:</b> Intel® Core™ i9-13900H (14C / 20T)</li>
+        <li><b>RAM:</b> 16 GB LPDDR4X</li>
+        <li><b>Storage:</b> 1 TB M.2 NVMe SSD</li>
+        <li><b>GPU:</b> Intel® Iris® Xe Graphics (iGPU)</li>
+        <li><b>OS:</b> Windows 11 26H2 <i>(Insider Program)</i></li>
+      </ul>
+      <p align="center">
+        <code>Daily Driver</code> • <code>Dev Workstation</code> • <code>High Performance</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Home Lab & Server</h3>
+      <p align="center"><b>Dedicated Ubuntu Server Node</b></p>
+      <ul>
+        <li><b>CPU:</b> Intel® Core™ i7-4790K (4C / 8T)</li>
+        <li><b>RAM:</b> 16 GB DDR3</li>
+        <li><b>Storage:</b> 2x 1 TB HDD + 240 GB SSD (2.24 TB)</li>
+        <li><b>GPU:</b> NVIDIA GeForce G210 <i>(Display Output)</i></li>
+        <li><b>OS:</b> Ubuntu 26.04.1 LTS</li>
+      </ul>
+      <p align="center">
+        <code>Homelab</code> • <code>24/7 Server</code> • <code>Self-Hosted Infrastructure</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      📱 <b>Mobile Device:</b> Samsung Galaxy A04e &nbsp;•&nbsp; ⚡ <b>Ecosystem:</b> Tailored for high-throughput coding & remote server automation
     </td>
   </tr>
 </table>

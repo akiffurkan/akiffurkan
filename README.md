@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🚇 <a href="https://github.com/akiffurkan">Metrom Nerede (kullanım dışı)</a></h3>
+      <h3 align="center">🚇 Metrom Nerede (Deprecated)</h3>
       <p align="center">
         <b>Modern Istanbul Public Transit Experience</b>
       </p>

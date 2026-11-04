@@ -19,7 +19,7 @@
 
 ---
 
-## 🌌 The Mindset & Philosophy
+<h2 align="center">🌌 The Mindset & Philosophy</h2>
 
 ```
   ┌────────────────────────────────────────────────────────────────────────┐
@@ -260,14 +260,14 @@
 
 ---
 
-## 📊 Developer Metrics & GitHub Analytics
+<h2 align="center">📊 Developer Metrics & GitHub Analytics</h2>
 
 <div align="center">
 
 <!-- GitHub Stats & Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=akiffurkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akiffurkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiffurkan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akiffurkan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="175" alt="Top Languages" />
 
 <br/><br/>
 
@@ -278,7 +278,7 @@
 
 ---
 
-## 💬 Inspiring Developer Quotes
+<h2 align="center">💬 Inspiring Developer Quotes</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />

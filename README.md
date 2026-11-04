@@ -145,18 +145,19 @@
         <code>Flutter</code> • <code>SSH / SFTP</code> • <code>Docker</code> • <code>AI Engine</code>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🚀 Coming soon...</h3>
+        <td width="33%" valign="top">
+      <h3 align="center">📱 <a href="https://github.com/akiffurkan/hwt-lister-mobile">HWT Lister Mobile</a></h3>
       <p align="center">
-        <b>New Project in Development</b>
+        <b>Haute Horlogerie Huawei Watch Face Client</b>
       </p>
       <ul>
-        <li>✨ Exciting open-source software in development.</li>
-        <li>💡 Modern architecture & slick user experience.</li>
-        <li>📡 Next-gen tooling and automated workflows.</li>
+        <li>👑 Luxury Dark Obsidian & Cream Gold native Flutter UI.</li>
+        <li>📂 Direct <code>/Huawei</code> storage scanning, file import & share.</li>
+        <li>🛡️ Smart cover extraction, AMOLED AOD toggle & XML inspector.</li>
+        <li>🌍 7-language localization with full dynamic RTL support.</li>
       </ul>
       <p align="center">
-        <code>In Progress</code> • <code>Stay Tuned</code>
+        <code>Mobile</code> • <code>Flutter</code> • <code>Huawei HWT</code> • <code>Luxury UI</code>
       </p>
     </td>
   </tr>

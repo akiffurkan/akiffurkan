@@ -228,7 +228,7 @@
         <li><b>RAM:</b> 16 GB LPDDR4X</li>
         <li><b>Storage:</b> 1 TB M.2 NVMe SSD</li>
         <li><b>GPU:</b> Intel® Iris® Xe Graphics (iGPU)</li>
-        <li><b>OS:</b> Windows 11 26H2 & macOS Sonoma / Sequoia <i>(Dual-Boot)</i></li>
+        <li><b>OS:</b> Windows 11 26H2 & macOS Tahoe <i>(Dual-Boot)</i></li>
       </ul>
       <p align="center">
         <code>Daily Driver</code> • <code>Dev Workstation</code> • <code>High Performance</code>

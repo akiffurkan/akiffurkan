@@ -163,17 +163,18 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🚀 Coming soon...</h3>
+      <h3 align="center">🍎 <a href="https://github.com/akiffurkan/Huawei-MateBook-D16-Hackintosh-Guide">Huawei MateBook D16</a></h3>
       <p align="center">
-        <b>New Project in Development</b>
+        <b>macOS Sonoma / Sequoia / Tahoe Hackintosh Guide</b>
       </p>
       <ul>
-        <li>✨ Exciting open-source software in development.</li>
-        <li>💡 Modern architecture & slick user experience.</li>
-        <li>📡 Next-gen tooling and automated workflows.</li>
+        <li>⚡ Intel Core i9-13900H (14C/20T) hybrid scheduler tuned.</li>
+        <li>🔋 Full battery management & Intel Wi-Fi 6 AX201 native.</li>
+        <li>🛠️ Custom SSDT-TPD0 ACPI bridge for FocalTech I2C trackpad.</li>
+        <li>📖 Comprehensive bilingual (English & Türkçe) documentation.</li>
       </ul>
       <p align="center">
-        <code>In Progress</code> • <code>Stay Tuned</code>
+        <code>Hackintosh</code> • <code>OpenCore</code> • <code>macOS</code> • <code>EFI Guide</code>
       </p>
     </td>
     <td width="33%" valign="top">

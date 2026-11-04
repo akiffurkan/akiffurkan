@@ -69,7 +69,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/akiffurkan">Antigravity Mobile</a></h3>
       <p align="center">
         <b>Mobile Companion for Autonomous AI Agents</b>
@@ -81,10 +81,10 @@
         <li>⚡ Remote task dispatching & subagent lifecycle management.</li>
       </ul>
       <p align="center">
-        <code>Mobile</code> • <code>Tauri / Flutter</code> • <code>AI Companion</code> • <code>WebSockets</code>
+        <code>Mobile</code> • <code>Tauri / Flutter</code> • <code>AI Companion</code>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">⌚ <a href="https://github.com/akiffurkan/hwt-lister">HWT Lister</a></h3>
       <p align="center">
         <b>Haute Horlogerie Huawei Watch Face Gallery</b>
@@ -99,9 +99,7 @@
         <code>Python</code> • <code>Flask</code> • <code>Pillow</code> • <code>Luxury UI</code>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🖥️ <a href="https://github.com/akiffurkan">Codenotch for Windows</a></h3>
       <p align="center">
         <b>Desktop Coding Assistant & Provider Activity Hub</b>
@@ -116,8 +114,10 @@
         <code>Rust</code> • <code>Tauri</code> • <code>Windows API</code> • <code>AI Tools</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚇 <a href="https://github.com/akiffurkan">Metrom Nerede</a></h3>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🚇 <a href="https://github.com/akiffurkan">Metrom Nerede (kullanım dışı)</a></h3>
       <p align="center">
         <b>Modern Istanbul Public Transit Experience</b>
       </p>
@@ -128,6 +128,79 @@
       </ul>
       <p align="center">
         <code>Cross-Platform</code> • <code>Modern UI</code> • <code>Geolocation API</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/akiffurkan/PulseNode">PulseNode</a></h3>
+      <p align="center">
+        <b>Next-Gen Server & Docker Telemetry</b>
+      </p>
+      <ul>
+        <li>📊 Real-time CPU, RAM, Disk & Network telemetry over SSH.</li>
+        <li>🐳 Docker container orchestrator & live interactive shell.</li>
+        <li>🔍 Deep hardware profiler, SMART disk health & PCIe details.</li>
+        <li>🧠 AI bottleneck advisor & system boot failure diagnostics.</li>
+      </ul>
+      <p align="center">
+        <code>Flutter</code> • <code>SSH / SFTP</code> • <code>Docker</code> • <code>AI Engine</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
       </p>
     </td>
   </tr>

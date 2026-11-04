@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/akiffurkan/akiffurkan/main/assets/header.svg" width="100%" alt="Akif Furkan Emir" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=F5C024&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Architecting+Mobile%2C+Web+%26+Desktop+Apps;Building+Antigravity+Mobile+%E2%80%A2+HWT+Lister;Hyprland+%E2%80%A2+Linux+%E2%80%A2+High-Performance+Code;Turning+Ideas+Into+Scalable+Reality" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=F5C024&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Systems+%26+Mobile+Developer;Turning+Ideas+Into+Scalable+Reality" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧠 TECH STACK
+<h2 align="center">🧠 TECH STACK</h2>
 
 <div align="center">
 
@@ -56,20 +56,22 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,git,bash,arduino,raspberrypi,vscode,visualstudio,eclipse,replit,notion" /></a>
 
 <p style="margin: 6px 0 2px 0;"><b>Platforms & Operating Systems (Active)</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,ubuntu,redhat,nix,linux" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,linux" /></a>
 
 <p style="margin: 6px 0 2px 0;"><b>Past Platforms & Distro Experience</b></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,debian,arch,kali" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redhat,nix,debian,arch,kali" /></a>
 
 </div>
 
 ---
 
-## ⚡ Featured Projects
+<h2 align="center">⚡ Featured Projects</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/akiffurkan">Antigravity Mobile</a></h3>
       <p align="center">
         <b>Mobile Companion for Autonomous AI Agents</b>
@@ -84,7 +86,7 @@
         <code>Mobile</code> • <code>Tauri / Flutter</code> • <code>AI Companion</code>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">⌚ <a href="https://github.com/akiffurkan/hwt-lister">HWT Lister</a></h3>
       <p align="center">
         <b>Haute Horlogerie Huawei Watch Face Gallery</b>
@@ -99,7 +101,7 @@
         <code>Python</code> • <code>Flask</code> • <code>Pillow</code> • <code>Luxury UI</code>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🖥️ <a href="https://github.com/akiffurkan">Codenotch for Windows</a></h3>
       <p align="center">
         <b>Desktop Coding Assistant & Provider Activity Hub</b>
@@ -116,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🚇 Metrom Nerede (Deprecated)</h3>
       <p align="center">
         <b>Modern Istanbul Public Transit Experience</b>
@@ -130,7 +132,7 @@
         <code>Cross-Platform</code> • <code>Modern UI</code> • <code>Geolocation API</code>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/akiffurkan/PulseNode">PulseNode</a></h3>
       <p align="center">
         <b>Next-Gen Server & Docker Telemetry</b>
@@ -145,7 +147,7 @@
         <code>Flutter</code> • <code>SSH / SFTP</code> • <code>Docker</code> • <code>AI Engine</code>
       </p>
     </td>
-        <td width="33%" valign="top">
+        <td width="33.33%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/akiffurkan/hwt-lister-mobile">HWT Lister Mobile</a></h3>
       <p align="center">
         <b>Haute Horlogerie Huawei Watch Face Client</b>
@@ -162,7 +164,7 @@
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🍎 <a href="https://github.com/akiffurkan/Huawei-MateBook-D16-Hackintosh-Guide">Huawei MateBook D16</a></h3>
       <p align="center">
         <b>macOS Sonoma / Sequoia / Tahoe Hackintosh Guide</b>
@@ -177,7 +179,7 @@
         <code>Hackintosh</code> • <code>OpenCore</code> • <code>macOS</code> • <code>EFI Guide</code>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🚀 Coming soon...</h3>
       <p align="center">
         <b>New Project in Development</b>
@@ -191,7 +193,7 @@
         <code>In Progress</code> • <code>Stay Tuned</code>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h3 align="center">🚀 Coming soon...</h3>
       <p align="center">
         <b>New Project in Development</b>
@@ -208,11 +210,15 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
-## ⚙️ Hardware & Battle Station
+<h2 align="center">⚙️ Hardware & Battle Station</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💻 Primary Workstation</h3>
@@ -222,7 +228,7 @@
         <li><b>RAM:</b> 16 GB LPDDR4X</li>
         <li><b>Storage:</b> 1 TB M.2 NVMe SSD</li>
         <li><b>GPU:</b> Intel® Iris® Xe Graphics (iGPU)</li>
-        <li><b>OS:</b> Windows 11 26H2 <i>(Insider Program)</i></li>
+        <li><b>OS:</b> Windows 11 26H2 & macOS Sonoma / Sequoia <i>(Dual-Boot)</i></li>
       </ul>
       <p align="center">
         <code>Daily Driver</code> • <code>Dev Workstation</code> • <code>High Performance</code>
@@ -249,6 +255,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

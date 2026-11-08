@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Self-Hosted Luxury Hyprland & Gold SVG Header -->
-<img src="https://raw.githubusercontent.com/akiffurkan/akiffurkan/main/assets/header.svg" width="100%" alt="Akif Furkan Emir" />
+<!-- Workstation Fastfetch Terminal Header -->
+<img src="https://raw.githubusercontent.com/akiffurkan/akiffurkan/main/assets/header.jpg" width="100%" alt="Akif Furkan Emir" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=F5C024&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Systems+%26+Mobile+Developer;Turning+Ideas+Into+Scalable+Reality" alt="Typing SVG Banner" />

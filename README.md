@@ -356,9 +356,9 @@
 <div align="center">
 
 <!-- GitHub Stats & Top Languages -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akiffurkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=akiffurkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akiffurkan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akiffurkan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="175" alt="Top Languages" />
 
 <br/><br/>
 

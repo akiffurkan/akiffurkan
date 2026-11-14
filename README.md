@@ -180,6 +180,97 @@
       </p>
     </td>
     <td width="33.33%" valign="top">
+      <h3 align="center">🛠️ <a href="https://github.com/akiffurkan/WhateverXe-0xA7A0">WhateverXe (0xA7A0 Fork)</a></h3>
+      <p align="center">
+        <b>Intel Iris Xe Graphics 0xA7A0 macOS Driver</b>
+      </p>
+      <ul>
+        <li>⚡ Custom Lilu plugin fork enabling Raptor Lake-P (0xA7A0, 96 EU).</li>
+        <li>🖥️ Tailored for Intel Core i9-13900H Iris Xe on macOS Sonoma/Tahoe.</li>
+        <li>🧪 Full native eDP framebuffer initialization & CI release pipeline.</li>
+        <li>⚙️ Integrated with WhateverXe Graphics & AppleIntelTGLCompat.</li>
+      </ul>
+      <p align="center">
+        <code>macOS Kernel</code> • <code>C++</code> • <code>Lilu Plugin</code> • <code>Iris Xe</code>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">📸 <a href="https://github.com/akiffurkan/snaptile">SnapTile</a></h3>
+      <p align="center">
+        <b>Native Android Screenshot & Quick Settings Utility</b>
+      </p>
+      <ul>
+        <li>⚡ Instant screen capture directly from Quick Settings tile or overlay.</li>
+        <li>🎯 Clean floating accessibility button with haptic feedback & gestures.</li>
+        <li>🎨 Material You dynamic theming and edge-to-edge modern Android UI.</li>
+        <li>🔒 Lightweight, privacy-focused with zero background battery drain.</li>
+      </ul>
+      <p align="center">
+        <code>Android</code> • <code>Kotlin</code> • <code>Jetpack Compose</code> • <code>Accessibility API</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🛡️ <a href="https://github.com/akiffurkan/api-sentinel">API Sentinel</a></h3>
+      <p align="center">
+        <b>Open-Source API Monitoring & Observability</b>
+      </p>
+      <ul>
+        <li>📡 Automated HTTP/gRPC synthetic health checks & latency tracking.</li>
+        <li>🚨 Multi-channel alerting via Webhooks, Slack, Discord & Telegram.</li>
+        <li>📈 Real-time SLA compliance reporting & uptime breakdown metrics.</li>
+        <li>🐳 Self-hosted and cloud-ready with minimal operational overhead.</li>
+      </ul>
+      <p align="center">
+        <code>Observability</code> • <code>TypeScript</code> • <code>API Monitoring</code> • <code>Self-Hosted</code>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3 align="center">🚀 Coming soon...</h3>
+      <p align="center">
+        <b>New Project in Development</b>
+      </p>
+      <ul>
+        <li>✨ Exciting open-source software in development.</li>
+        <li>💡 Modern architecture & slick user experience.</li>
+        <li>📡 Next-gen tooling and automated workflows.</li>
+      </ul>
+      <p align="center">
+        <code>In Progress</code> • <code>Stay Tuned</code>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
       <h3 align="center">🚀 Coming soon...</h3>
       <p align="center">
         <b>New Project in Development</b>
